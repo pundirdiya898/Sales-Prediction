@@ -1,0 +1,35 @@
+Accurate sales prediction is crucial for effective supply chain management, marketing strategies, and financial forecasting. This project explores various regression models to predict sales based on features such as:
+
+Date
+
+Store location
+
+Product category
+
+Promotions/discounts
+
+Holiday/weekend flags
+
+Past sales performance
+
+ Model Performance
+Several models were tested including:
+
+Linear Regression
+
+Decision Tree Regressor
+
+Random Forest Regressor
+
+Gradient Boosting (XGBoost)
+
+The best-performing model achieved a Root Mean Squared Error (RMSE) of X.XX on the test set.
+
+✅ Key Features
+Data cleaning and feature engineering
+
+Model training and hyperparameter tuning
+
+Model evaluation using cross-validation
+
+Future sales prediction and visualization
